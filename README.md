@@ -1,0 +1,1 @@
+# Hackintosh-10700K-Z490
